@@ -1,6 +1,4 @@
-# Hi, I'm Ehsan Faridi 👋  
-
-![Profile GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hi, I'm Ehsan Faridi 👋 
 
 For over 8 years, my passion has been creating scalable and high-performance backend applications.  
 
